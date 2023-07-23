@@ -1,2 +1,2 @@
 # backend_tdw
-Rubèn Garrido
+Rubèn Garrido & José Acuña
